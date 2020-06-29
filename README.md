@@ -109,3 +109,10 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 * **[ORDA: リモートデータストア (サンプルアプリケーション)](https://github.com/4D-JP/HDI/releases/download/18/TIP_Remote_Datastore.zip)** リモートデータストアーのサンプルアプリケーションです。ローカルデータベースでは直近のデータだけを保存し，過去データはすべて外部データベースにて管理します。サンプルには，ローカルデータベース (TIP_Remote_Datastore_Client) とリモートデータベース (TIP_Remote_Datastore_Server) が含まれています。
 
 * **[ORDA: リモートデータストア](https://github.com/4D-JP/HDI/releases/download/18/HDI_Remote_Datastore.zip)** 新しく追加された Open datastore コマンドを使って，RESTリソースとして公開されている外部の 4D データベースをリモートデータストアの形で取得し，操作することができます。
+
+---
+
+### 過去のイベント
+
+* [World Tour 2019（２日目）](https://4d-jp.github.io/event/2019-05-29/)
+  * [オブジェクト型](https://github.com/4D-JP/event-world-tour-2019/releases/tag/object-1.0)
