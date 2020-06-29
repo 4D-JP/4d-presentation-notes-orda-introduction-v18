@@ -2,7 +2,9 @@
 
 ### ORDAとは？
 
-* ORDA（Object Relational Data Access）が使用できるようになったのは**v17**から
+* ORDA（Object Relational Data Access）
+
+* 導入バージョンは**v17**
 
 ---
 
