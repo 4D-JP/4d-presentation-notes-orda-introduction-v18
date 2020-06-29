@@ -122,3 +122,4 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 * Developer Conference 2018
   * [オブジェクト型](https://speakerdeck.com/miyako/obuziekutoxing-developer-conference-2018yori)
+  * [ORDA 概要編](https://speakerdeck.com/miyako/orda-gai-yao-bian-developer-conference-2018yori)
