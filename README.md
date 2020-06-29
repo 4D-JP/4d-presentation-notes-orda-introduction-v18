@@ -74,9 +74,9 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 * **[ORDA: エンティティセレクションの統計情報](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Statistics.zip)** エンティティセレクションの統計情報はエンティティセレクションのメンバーメソッドを使って簡単に取得することができます。
 
-* ＊＊[ORDA: フォーミュラを使った並べ替え](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Order_ByFormula.zip)** ORDAにentitySelection.orderByFormula( )メンバーメソッドが追加され，エンティティセレクションの並べ替えにフォーミュラを使えるようになりました。
+* **[ORDA: フォーミュラを使った並べ替え](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Order_ByFormula.zip)** ORDAにentitySelection.orderByFormula( )メンバーメソッドが追加され，エンティティセレクションの並べ替えにフォーミュラを使えるようになりました。
 
-* ＊＊[ORDA: フォーミュラを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Query_ByFormula.zip)** ORDAのquery()メンバーメソッドが拡張され，フォーミュラを扱えるようになりました。
+* **[ORDA: フォーミュラを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Query_ByFormula.zip)** ORDAのquery()メンバーメソッドが拡張され，フォーミュラを扱えるようになりました。
 
 * **[ORDA: 新機能を活用した汎用コード](https://github.com/4D-JP/HDI/releases/download/17r5/ORDA_Dynamic_Code.zip)** ORDAに追加された新規メンバーメソッドentity.getDataClass( )およびentitySelection.getDataClass( )のほか，値と属性パスのプレースホルダー、dataClass.{attributeName}オブジェクトを活用した，データクラスに依存しない汎用的なコードや，動的なクエリインターフェースの例を紹介します。
 
