@@ -120,4 +120,5 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 * [World Tour 2019（２日目）](https://4d-jp.github.io/event/2019-05-29/)
   * [オブジェクト型](https://github.com/4D-JP/event-world-tour-2019/releases/tag/object-1.0)
 
-* [オブジェクト型（Developer Conference 2018より](https://speakerdeck.com/miyako/obuziekutoxing-developer-conference-2018yori)
+* Developer Conference 2018
+  * [オブジェクト型](https://speakerdeck.com/miyako/obuziekutoxing-developer-conference-2018yori)
