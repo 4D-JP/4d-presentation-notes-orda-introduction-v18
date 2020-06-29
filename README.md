@@ -40,9 +40,45 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 \* 仕様の策定に携わり，制作進行を監修する開発チームのメンバー
 
+#### オブジェクト型
 
-#### [v18](https://4d-jp.github.io/hdi/#v18)
+* [New Object](https://github.com/4D-JP/HDI/releases/download/16r3/HDI_NewObject.zip)
+* [オブジェクトとピクチャー属性](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_PictureObjectAttribute.zip)
+
+#### オブジェクト記法/コレクション型
+
+* [オブジェクト記法]https://github.com/4D-JP/HDI/releases/download/16r4/HDI_ObjectNotationDatasource.zip
+* [コレクション](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_UseCollections.zip)
+* [コレクションの操作](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_Collection_Members.zip)
+* [コレクションのクエリ](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_Collection_Query.zip)
+* [新しい For each…End for each ループ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ForEach.zip)
+
+#### データストア/ORDA (v17)
+
+* [ORDA: エンティティの新規作成・更新・削除](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_CRUD.zip)
+* [ORDA: クエリ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Query.zip)
+* [ORDA: エンティティセレクションとカレントセレクションの相互変換](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Current_Selection_Bridge.zip)
+* [ORDA: エンティティとオブジェクトの相互変換](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Objects_And_Collections.zip)
+* [ORDA: 悲観的(ペシミスティック)ロック](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Pessimistic_Lock.zip)
+* [ORDA: 楽観的(オプティミスティック)ロック](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Optimistic_Lock.zip)
+* [ORDA: エンティティとエンティティセレクションの操作](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Handling_Entities.zip)
+* [ORDA: エンティティセレクションの論理演算](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Logical_Operators.zip)
+* [ORDA: エンティティセレクションの統計情報](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Statistics.zip)
+
+#### データストア/ORDA (v18)
+
+* [ORDA: フォーミュラを使った並べ替え](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Order_ByFormula.zip)
+* [ORDA: フォーミュラを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Query_ByFormula.zip)
+* [ORDA: 新機能を活用した汎用コード](https://github.com/4D-JP/HDI/releases/download/17r5/ORDA_Dynamic_Code.zip)
+* [ORDA: 動的なストラクチャー情報の取得](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_Database_Info.zip)
+* [ORDA: 属性パスのプレースホルダーを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_PlaceHolders_AttributePaths.zip)
+* [ORDA: 値の命名プレースホルダーを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_PlaceHolders_Values.zip)
+
+#### フォーミュラ 
+
+* [メソッドのオブジェクト化](https://github.com/4D-JP/HDI/releases/download/17r3/HDI_NewFormula.zip)
+
+#### リモートデータストア (v18)
 
 * **[ORDA: リモートデータストア (サンプルアプリケーション)](https://github.com/4D-JP/HDI/releases/download/18/TIP_Remote_Datastore.zip)** リモートデータストアーのサンプルアプリケーションです。ローカルデータベースでは直近のデータだけを保存し，過去データはすべて外部データベースにて管理します。サンプルには，ローカルデータベース (TIP_Remote_Datastore_Client) とリモートデータベース (TIP_Remote_Datastore_Server) が含まれています。
-
 * **[ORDA: リモートデータストア](https://github.com/4D-JP/HDI/releases/download/18/HDI_Remote_Datastore.zip)** 新しく追加された Open datastore コマンドを使って，RESTリソースとして公開されている外部の 4D データベースをリモートデータストアの形で取得し，操作することができます。
