@@ -1,5 +1,11 @@
 # 4d-presentation-notes-orda-introduction-v18
 
+### ORDAとは？
+
+* ORDA（Object Relational Data Access）が使用できるようになったのは**v17**から
+
+---
+
 * [Open datastore()](https://doc.4d.com/4Dv18/4D/18/Open-datastore.301-4675616.ja.html)
 
 ### サンプルデータベース
