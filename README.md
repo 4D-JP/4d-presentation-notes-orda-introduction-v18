@@ -42,8 +42,9 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 #### オブジェクト型
 
-* [New Object](https://github.com/4D-JP/HDI/releases/download/16r3/HDI_NewObject.zip)
-* [オブジェクトとピクチャー属性](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_PictureObjectAttribute.zip)
+* **[New Object](https://github.com/4D-JP/HDI/releases/download/16r3/HDI_NewObject.zip)** オブジェクトを初期化するための新コマンドNew objectが追加されました。従来のコードと新コマンドを使ったコードを比較します。
+
+* **[オブジェクトとピクチャー属性](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_PictureObjectAttribute.zip)** オブジェクトの属性値にピクチャーを設定できるようになりました。
 
 #### オブジェクト記法/コレクション型
 
@@ -53,7 +54,7 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 * [コレクションのクエリ](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_Collection_Query.zip)
 * [新しい For each…End for each ループ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ForEach.zip)
 
-#### データストア/ORDA (v17)
+#### データストア/ORDA
 
 * [ORDA: エンティティの新規作成・更新・削除](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_CRUD.zip)
 * [ORDA: クエリ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Query.zip)
@@ -65,7 +66,7 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 * [ORDA: エンティティセレクションの論理演算](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Logical_Operators.zip)
 * [ORDA: エンティティセレクションの統計情報](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Statistics.zip)
 
-#### データストア/ORDA (v18)
+#### データストア/ORDA
 
 * [ORDA: フォーミュラを使った並べ替え](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Order_ByFormula.zip)
 * [ORDA: フォーミュラを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Query_ByFormula.zip)
@@ -78,7 +79,7 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 * **[メソッドのオブジェクト化](https://github.com/4D-JP/HDI/releases/download/17r3/HDI_NewFormula.zip)** New formulaコマンドを使って，メソッドをオブジェクト化することができます。オブジェクト化されたメソッドは引数として受け渡すことができます。
 
-#### リモートデータストア (v18)
+#### リモートデータストア
 
 * **[ORDA: リモートデータストア (サンプルアプリケーション)](https://github.com/4D-JP/HDI/releases/download/18/TIP_Remote_Datastore.zip)** リモートデータストアーのサンプルアプリケーションです。ローカルデータベースでは直近のデータだけを保存し，過去データはすべて外部データベースにて管理します。サンプルには，ローカルデータベース (TIP_Remote_Datastore_Client) とリモートデータベース (TIP_Remote_Datastore_Server) が含まれています。
 
