@@ -64,11 +64,11 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 * **[コレクション型リストボックスと複階層コレクション](https://github.com/4D-JP/HDI/releases/download/17/HDI_ListBoxCollection_Advanced_v17.zip)** 複数のリストボックスを使い、複階層のコレクションを表示します。
 
-* **[共有オブジェクトとStorage](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_useSharedObjects.zip)** 共有オブジェクトおよび共有コレクションはプロセス間でコンテンツを共有することができる、特殊なオブジェクトとコレクションです。作成された共有オブジェクト等の一覧はStorageコマンドより取得することができます。
+* **[共有オブジェクトとStorage](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_useSharedObjects.zip)** 共有オブジェクトおよび共有コレクションはプロセス間でコンテンツを共有することができる，特殊なオブジェクトとコレクションです。作成された共有オブジェクト等の一覧はStorageコマンドより取得することができます。
 
 #### データストア/ORDA
 
-* **[ORDA: エンティティの新規作成・更新・削除](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_CRUD.zip)** ORDAにおける、メンバーメソッドを使ったエンティティの基本操作を説明します。
+* **[ORDA: エンティティの新規作成・更新・削除](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_CRUD.zip)** ORDAにおける，メンバーメソッドを使ったエンティティの基本操作を説明します。
 
 * **[ORDA: クエリ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Query.zip)** ORDAを使ったクエリ方法の紹介です。
 
@@ -80,7 +80,7 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 * **[ORDA: 悲観的(ペシミスティック)ロック](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Pessimistic_Lock.zip)** ORDAでペシミスティックロックを使う方法の紹介です。
 
-* **[ORDA: 楽観的(オプティミスティック)ロック](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Optimistic_Lock.zip)** ORDAの基本仕様である、オプティミスティックロックがどのように動作するかについての説明です。 
+* **[ORDA: 楽観的(オプティミスティック)ロック](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Optimistic_Lock.zip)** ORDAの基本仕様である，オプティミスティックロックがどのように動作するかについての説明です。 
 
 * **[ORDA: エンティティとエンティティセレクションの操作](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Handling_Entities.zip)** エンティティやエンティティセレクションのもっとも基本的な操作の紹介です。
 
@@ -92,7 +92,7 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 * **[ORDA: フォーミュラを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Query_ByFormula.zip)** ORDAのquery()メンバーメソッドが拡張され，フォーミュラを扱えるようになりました。
 
-* **[ORDA: 新機能を活用した汎用コード](https://github.com/4D-JP/HDI/releases/download/17r5/ORDA_Dynamic_Code.zip)** ORDAに追加された新規メンバーメソッドentity.getDataClass( )およびentitySelection.getDataClass( )のほか，値と属性パスのプレースホルダー、dataClass.{attributeName}オブジェクトを活用した，データクラスに依存しない汎用的なコードや，動的なクエリインターフェースの例を紹介します。
+* **[ORDA: 新機能を活用した汎用コード](https://github.com/4D-JP/HDI/releases/download/17r5/ORDA_Dynamic_Code.zip)** ORDAに追加された新規メンバーメソッドentity.getDataClass( )およびentitySelection.getDataClass( )のほか，値と属性パスのプレースホルダー，dataClass.{attributeName}オブジェクトを活用した，データクラスに依存しない汎用的なコードや，動的なクエリインターフェースの例を紹介します。
 
 * **[ORDA: 動的なストラクチャー情報の取得](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_Database_Info.zip)** 新しく追加されたメンバーメソッドや，データクラス属性オブジェクトの拡張によって，動的なストラクチャー情報の取得が容易になりました。これにより汎用コードを簡単に書くことができます。
 
