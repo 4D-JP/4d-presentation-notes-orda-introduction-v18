@@ -46,19 +46,33 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 * **[オブジェクトとピクチャー属性](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_PictureObjectAttribute.zip)** オブジェクトの属性値にピクチャーを設定できるようになりました。
 
+* **[JSON ポインターの解決](https://github.com/4D-JP/HDI/releases/download/16r5/HDI_JSON_Pointer.zip)** 新しく追加されたJSON Resolve pointersコマンドは，引数として渡されたオブジェクトに含まれるすべての JSON ポインターを解決します。
+
 #### オブジェクト記法/コレクション型
 
-* [オブジェクト記法](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_ObjectNotationDatasource.zip)
-* [コレクション](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_UseCollections.zip)
-* [コレクションの操作](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_Collection_Members.zip)
-* [コレクションのクエリ](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_Collection_Query.zip)
-* [新しい For each…End for each ループ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ForEach.zip)
+* **[オブジェクト記法](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_ObjectNotationDatasource.zip)** オブジェクト記法の使い方を紹介します。
+
+* **[コレクション](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_UseCollections.zip)** コレクションという新しいデータタイプが実装されました。
+
+* **[コレクションの操作](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_Collection_Members.zip)** コマンドや，コレクションのメンバーメソッドを使った，コレクションに関わるさまざまな操作の紹介です。
+
+* **[コレクションのクエリ](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_Collection_Query.zip)** collection.query( )メンバーメソッドを使ったコレクションのクエリ方法を紹介します。プレースホルダーを使った例，使わない例，比較演算子や，文字列をクエリする際の”@”の扱いなど。
+
+* **[新しい For each…End for each ループ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ForEach.zip)** 新しく実装されたFor each...End for eachループの使用例です。コレクション内の各要素，エンティティセレクション内の各エンティティ，オブジェクト内の各プロパティの反復処理が可能です。
+
+* **[コレクション型リストボックス](https://github.com/4D-JP/HDI/releases/download/17/HDI_ListboxCollection.zip)** コレクション型リストボックスの設定の仕方，使い方の紹介です。
+
+* **[コレクション型リストボックスと複階層コレクション](https://github.com/4D-JP/HDI/releases/download/17/HDI_ListBoxCollection_Advanced_v17.zip)** 複数のリストボックスを使い、複階層のコレクションを表示します。
+
+* **[共有オブジェクトとStorage](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_useSharedObjects.zip)** 共有オブジェクトおよび共有コレクションはプロセス間でコンテンツを共有することができる、特殊なオブジェクトとコレクションです。作成された共有オブジェクト等の一覧はStorageコマンドより取得することができます。
 
 #### データストア/ORDA
 
 * **[ORDA: エンティティの新規作成・更新・削除](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_CRUD.zip)** ORDAにおける、メンバーメソッドを使ったエンティティの基本操作を説明します。
 
 * **[ORDA: クエリ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Query.zip)** ORDAを使ったクエリ方法の紹介です。
+
+* **[リストボックス: エンティティセレクションの表示](https://github.com/4D-JP/HDI/releases/download/17/HDI_EntitySelectionInListbox.zip)** エンティティセレクションをコレクション型リストボックスに表示するために必要となる設定を紹介します。
 
 * **[ORDA: エンティティセレクションとカレントセレクションの相互変換](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Current_Selection_Bridge.zip)** カレントセレクションからエンティティセレクションを作成したり，エンティティセレクションをカレントセレクションに反映させることができます。
 
