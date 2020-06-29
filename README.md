@@ -13,7 +13,10 @@
   * ソースコードのモジュール化・類型化・整理を促進
   * メンテナンス・デバッグ・リファクタリングが容易
   * 他言語システムとの**連携**が容易（JSON/HTTP/REST）
-* 今後の新機能追加は原則的にORDAが対象  
+* 今後の言語拡張は原則的にORDA/オブジェクト指向プログラミングが対象
+  * [ZIPアーカイブ](https://doc.4d.com/4Dv18/4D/18/About-ZIP-Archives.300-4679649.ja.html)
+  * [メール](https://doc.4d.com/4Dv18/4D/18/Mail.302-4504492.ja.html)
+  * [ファイルシステム](https://doc.4d.com/4Dv18/4D/18/File-and-folder-object-pathnames.300-4506091.ja.html)
 * 従来ランゲージとの併用が可能
 
 ### ORDAのデメリットは？
