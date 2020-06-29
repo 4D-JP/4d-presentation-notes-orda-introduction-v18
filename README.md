@@ -56,24 +56,35 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 #### データストア/ORDA
 
-* [ORDA: エンティティの新規作成・更新・削除](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_CRUD.zip)
-* [ORDA: クエリ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Query.zip)
-* [ORDA: エンティティセレクションとカレントセレクションの相互変換](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Current_Selection_Bridge.zip)
-* [ORDA: エンティティとオブジェクトの相互変換](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Objects_And_Collections.zip)
-* [ORDA: 悲観的(ペシミスティック)ロック](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Pessimistic_Lock.zip)
-* [ORDA: 楽観的(オプティミスティック)ロック](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Optimistic_Lock.zip)
-* [ORDA: エンティティとエンティティセレクションの操作](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Handling_Entities.zip)
-* [ORDA: エンティティセレクションの論理演算](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Logical_Operators.zip)
-* [ORDA: エンティティセレクションの統計情報](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Statistics.zip)
+* **[ORDA: エンティティの新規作成・更新・削除](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_CRUD.zip)** ORDAにおける、メンバーメソッドを使ったエンティティの基本操作を説明します。
 
-#### データストア/ORDA
+* **[ORDA: クエリ](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Query.zip)** ORDAを使ったクエリ方法の紹介です。
 
-* [ORDA: フォーミュラを使った並べ替え](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Order_ByFormula.zip)
-* [ORDA: フォーミュラを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Query_ByFormula.zip)
-* [ORDA: 新機能を活用した汎用コード](https://github.com/4D-JP/HDI/releases/download/17r5/ORDA_Dynamic_Code.zip)
-* [ORDA: 動的なストラクチャー情報の取得](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_Database_Info.zip)
-* [ORDA: 属性パスのプレースホルダーを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_PlaceHolders_AttributePaths.zip)
-* [ORDA: 値の命名プレースホルダーを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_PlaceHolders_Values.zip)
+* **[ORDA: エンティティセレクションとカレントセレクションの相互変換](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Current_Selection_Bridge.zip)** カレントセレクションからエンティティセレクションを作成したり，エンティティセレクションをカレントセレクションに反映させることができます。
+
+* **[ORDA: エンティティとオブジェクトの相互変換](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Objects_And_Collections.zip)** エンティティやエンティティセレクションをオブジェクトやコレクションに変換したり，その逆をおこなうメンバーメソッドの紹介です。
+
+* **[ORDA: 悲観的(ペシミスティック)ロック](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Pessimistic_Lock.zip)** ORDAでペシミスティックロックを使う方法の紹介です。
+
+* **[ORDA: 楽観的(オプティミスティック)ロック](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Optimistic_Lock.zip)** ORDAの基本仕様である、オプティミスティックロックがどのように動作するかについての説明です。 
+
+* **[ORDA: エンティティとエンティティセレクションの操作](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Handling_Entities.zip)** エンティティやエンティティセレクションのもっとも基本的な操作の紹介です。
+
+* **[ORDA: エンティティセレクションの論理演算](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Logical_Operators.zip)** エンティティに対する論理演算はエンティティセレクションのメンバーメソッドを使っておこなうことができます。
+
+* **[ORDA: エンティティセレクションの統計情報](https://github.com/4D-JP/HDI/releases/download/17/HDI_ORDA_Statistics.zip)** エンティティセレクションの統計情報はエンティティセレクションのメンバーメソッドを使って簡単に取得することができます。
+
+* ＊＊[ORDA: フォーミュラを使った並べ替え](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Order_ByFormula.zip)** ORDAにentitySelection.orderByFormula( )メンバーメソッドが追加され，エンティティセレクションの並べ替えにフォーミュラを使えるようになりました。
+
+* ＊＊[ORDA: フォーミュラを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r6/HDI_Query_ByFormula.zip)** ORDAのquery()メンバーメソッドが拡張され，フォーミュラを扱えるようになりました。
+
+* **[ORDA: 新機能を活用した汎用コード](https://github.com/4D-JP/HDI/releases/download/17r5/ORDA_Dynamic_Code.zip)** ORDAに追加された新規メンバーメソッドentity.getDataClass( )およびentitySelection.getDataClass( )のほか，値と属性パスのプレースホルダー、dataClass.{attributeName}オブジェクトを活用した，データクラスに依存しない汎用的なコードや，動的なクエリインターフェースの例を紹介します。
+
+* **[ORDA: 動的なストラクチャー情報の取得](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_Database_Info.zip)** 新しく追加されたメンバーメソッドや，データクラス属性オブジェクトの拡張によって，動的なストラクチャー情報の取得が容易になりました。これにより汎用コードを簡単に書くことができます。
+
+* **[ORDA: 属性パスのプレースホルダーを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_PlaceHolders_AttributePaths.zip)** dataClass.query( )およびentitySelection.query( )のメンバーメソッドを使う際に，属性パスのプレースホルダーが使えるようになりました。
+
+* **[ORDA: 値の命名プレースホルダーを使ったクエリ](https://github.com/4D-JP/HDI/releases/download/17r5/HDI_PlaceHolders_Values.zip)** dataClass.query( )およびentitySelection.query( )のメンバーメソッドを使う際に，値の命名プレースホルダーが使えるようになりました。
 
 #### フォーミュラ 
 
