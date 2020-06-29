@@ -114,5 +114,8 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 ### 過去のイベント
 
+* [World Tour 2019（１日目）](https://4d-jp.github.io/event/2019-05-28/)
+  * [家系図](https://github.com/4D-JP/event-world-tour-2019/releases/tag/genealogy-1.3)
+  
 * [World Tour 2019（２日目）](https://4d-jp.github.io/event/2019-05-29/)
   * [オブジェクト型](https://github.com/4D-JP/event-world-tour-2019/releases/tag/object-1.0)
