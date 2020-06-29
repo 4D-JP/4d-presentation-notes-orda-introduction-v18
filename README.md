@@ -27,7 +27,7 @@ ORDAでは，データベース・テーブル・カレントレコード・カ�
 * [オブジェクト型](https://doc.4d.com/4Dv18/4D/18/Structure-of-4D-language-objects.300-4505646.ja.html)（v14）
 * [オブジェクト記法/コレクション型](https://doc.4d.com/4Dv18/4D/18/Using-object-notation.300-4505639.ja.html)（v17）
 * [データストア/ORDA](https://doc.4d.com/4Dv18/4D/18/Datastores.300-4575757.ja.html) (v17)
-* [フォーミュラ](https://doc.4d.com/4Dv18/4D/18/Formula.301-4505749.ja.html)
+* [フォーミュラ](https://doc.4d.com/4Dv18/4D/18/Formula.301-4505749.ja.html) (v18)
 
 ---
 
