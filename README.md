@@ -47,7 +47,7 @@ v16以降の新機能は，ドキュメントに加え，プロダクトオー�
 
 #### オブジェクト記法/コレクション型
 
-* [オブジェクト記法]https://github.com/4D-JP/HDI/releases/download/16r4/HDI_ObjectNotationDatasource.zip
+* [オブジェクト記法](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_ObjectNotationDatasource.zip
 * [コレクション](https://github.com/4D-JP/HDI/releases/download/16r4/HDI_UseCollections.zip)
 * [コレクションの操作](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_Collection_Members.zip)
 * [コレクションのクエリ](https://github.com/4D-JP/HDI/releases/download/16r6/HDI_Collection_Query.zip)
